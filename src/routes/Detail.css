@@ -1,0 +1,13 @@
+/* .deatil {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+} */
+
+.detail h4, .detail span {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
